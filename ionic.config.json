@@ -1,0 +1,7 @@
+{
+  "name": "SimplyRelax",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
